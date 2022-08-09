@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+#card{  
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    background-image: url(/images/backgorund.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 10%;           
+}
+
+#linkedin{    
+    width: 20px;   
+}
+
+#github{    
+    width: 20px; 
+}
+
+#instagram{    
+    width: 20px; 
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    list-style: none;
+}
+
+
+
+
